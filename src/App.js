@@ -1,5 +1,6 @@
 import React, { Component } from 'react';   // Component allows us to access the states. and extends the class 
 // with the help of the class , we will use the states.
+
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
 
